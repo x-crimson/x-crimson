@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMARIT SAI MOHARANA</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **AI Text summarizer App**
+- 🔭 I’m currently working on **Knowledge Abroad**
 
 - 🌱 I’m currently learning **Node.js , SpringBoot**
 
